@@ -4,8 +4,7 @@ GraphscoreDTA is an optimized graph neural network for protein-ligand binding af
 
 The benchmark dataset can be found in `./test_set/`. The GraphscoreDTA model is available in `./src/`. And the result will be generated in `./result/`. See our paper for more details.
 
-**[IMPORTANT] We provide the input files in the [release page](https://github.com/CSUBioGroup/GraphscoreDTA/releases/tag/Data).** Please download it to `./test_set/`.
-#### [IMPORTANT]  We provide the input files in the release page (https://github.com/KailiWang1/GraphscoreDTA/releases/tag/Data). Please download it to `./test_set/`.
+**[IMPORTANT] We provide the input file in the [release page](https://github.com/CSUBioGroup/GraphscoreDTA/releases/tag/Data).** Please download it to `./test_set/`.
 
 ### Requirements:
 - python 3.7.11
