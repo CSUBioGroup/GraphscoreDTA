@@ -47,7 +47,10 @@ cd ./src/
 python train.py
 ```
 
-### contact
+## Citation
+Wang K, Zhou R, Tang J, et al. GraphscoreDTA: optimized graph neural network for protein–ligand binding affinity prediction[J]. Bioinformatics, 2023, 39(6): btad340.
+
+## Contact
 Kaili Wang: [kailiwang@dhu.edu.cn](mailto:kailiwang@dhu.edu.cn)
 
 You can also download the codes from https://github.com/KailiWang1/GraphscoreDTA
